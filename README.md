@@ -1,2 +1,11 @@
-# Expenses_Tracker
+# Personal Expenses_Tracker
+
 Tracks personal Expenses
+
+---
+
+## Concepts Covered
+
+- Variables
+- Data Types
+- Data Structures
